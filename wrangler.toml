@@ -5,11 +5,11 @@ compatibility_date = "2024-01-01"
 # 存放验证问题
 [[kv_namespaces]]
 binding = "KV"
-id = "$KV_ID"
-preview_id = "$KV_PREVIEW_ID"
+id = "c3867ad45f4444d79dc81416b0d44ac7"
+preview_id = "c3867ad45f4444d79dc81416b0d44ac7"
 
 # 存放会话数据 + 登录限流计数
 [[kv_namespaces]]
 binding = "SESSION_STORE"
-id = "$SESSION_STORE_ID"
-preview_id = "$SESSION_STORE_PREVIEW_ID"
+id = "763b8e4025204c3291d0fd8f80a555ef"
+preview_id = "763b8e4025204c3291d0fd8f80a555ef"
